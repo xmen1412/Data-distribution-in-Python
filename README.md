@@ -29,3 +29,10 @@ pip install matplotlib
 https://pythonspot.com/en/category/pro/gui/plotting/
 
 
+#Contributor
+
+* Muhammad Akbar (https://github.com/xmen1412/)
+
+
+
+
